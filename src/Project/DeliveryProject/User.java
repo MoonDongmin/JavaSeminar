@@ -15,3 +15,4 @@ public class User {
     public String getPwd(){return pwd;}
     public String getNickName(){return nickName;}
 }
+

@@ -1,7 +1,5 @@
 package Chapter15.HashMapExample;
 
-import Chapter8.Example.InterfaceA;
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;

@@ -1,0 +1,4 @@
+package Chapter07.InstanceofExample;
+
+public class Child2 extends Parent2 {
+}
