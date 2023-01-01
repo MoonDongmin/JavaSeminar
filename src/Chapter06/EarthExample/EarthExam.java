@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.EarthExample;
+
+import Chapter06.EarthExample.Earth;
 
 public class EarthExam {
     public static void main(String[] args){

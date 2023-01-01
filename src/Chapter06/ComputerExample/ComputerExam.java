@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.ComputerExample;
+
+import Chapter06.ComputerExample.Computer;
 
 public class ComputerExam {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.KoreanExample;
 
 public class Korean {
     String naion ="대한민국";

@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.KoreanExample;
+
+import Chapter06.KoreanExample.Korean;
 
 public class KoreanExam{
     public static void  main(String[] args){

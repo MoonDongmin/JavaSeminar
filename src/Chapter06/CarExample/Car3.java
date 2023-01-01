@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.CarExample;
 
 public class Car3 {
     String model;

@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.TelevisionExample;
 
 public class Television {
         static String company = "Samsung";

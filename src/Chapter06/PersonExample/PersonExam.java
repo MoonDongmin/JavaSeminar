@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.PersonExample;
+
+import Chapter06.PersonExample.Person;
 
 public class PersonExam {
     public static void main(String[] args){

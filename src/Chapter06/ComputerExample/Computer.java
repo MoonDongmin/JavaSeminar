@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.ComputerExample;
 
 public class Computer {
     int sum1(int[] values) {

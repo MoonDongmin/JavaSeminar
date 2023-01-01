@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.CalculatorExample;
+
+import Chapter06.CalculatorExample.Calculator;
 
 public class CalculatorExam {
     public static void main(String[] args){

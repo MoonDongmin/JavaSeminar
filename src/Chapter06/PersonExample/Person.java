@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.PersonExample;
 
 public class Person {
     final String nation = "Korea";

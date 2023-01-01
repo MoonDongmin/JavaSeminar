@@ -1,4 +1,6 @@
-package Chapter06;
+package Chapter06.CarExample;
+
+import Chapter06.CarExample.Car3;
 
 public class Car3Exam {
     public static void main(String[] args){

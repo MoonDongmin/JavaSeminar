@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter06.CalculatorExample;
 
 public class Calculator {
     void powerOn(){
