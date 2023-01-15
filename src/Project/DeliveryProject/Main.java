@@ -15,11 +15,11 @@ public class Main {
             String last;
             int s1,s2;
             System.out.println("--------------------------------");
-            System.out.println("1.로그인  2.생성  3.탈퇴  4.종료");
+            System.out.println("1.생성  2.로그인  3.탈퇴  4.종료");
             System.out.println("--------------------------------");
             System.out.print("번호를 입력하시오: ");
             s0 = sc.nextInt();
-            if (s0 == 1) {
+            if (s0 == 2) {
                 login.accessLogin();
                 System.out.println("----------------------------------------");
                 System.out.println("|거주지를 선택하시오.                  |\n");
@@ -77,7 +77,7 @@ public class Main {
                     continue;
                 }
                 System.out.println(last+"\n"+"배달순서:"+i);
-            } else if (s0 == 2) {
+            } else if (s0 == 1) {
                 login.createAccount();
             } else if (s0 == 3) {
                 login.delete();

@@ -1,13 +1,13 @@
 package Chapter06.TelevisionExample;
 
 public class Television {
-        static String company = "Samsung";
-        static String model = "LCD";
-        static String info;
+    static String company = "Samsung";
+    static String model = "LCD";
+    static String info;
 
-        static{
-            info = company + "-" + model;
-        }
+    static {
+        info = company + "-" + model;
     }
+}
 
 

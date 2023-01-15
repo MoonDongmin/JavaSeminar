@@ -1,5 +1,5 @@
-//package Chapter8;
-//
-//public interface  Searchable {
-//    void search(String url);
-//}
+package Chapter08.RemoteControlExmaple;
+
+public interface  Searchable {
+    void search(String url);
+}
