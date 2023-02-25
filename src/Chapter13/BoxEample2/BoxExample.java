@@ -1,4 +1,4 @@
-package Chapter12.BoxEample2;
+package Chapter13.BoxEample2;
 
 public class BoxExample {
     public static void main(String[] args){

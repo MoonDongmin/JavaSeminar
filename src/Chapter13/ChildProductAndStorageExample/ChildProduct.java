@@ -1,4 +1,4 @@
-package Chapter12.ChildProductAndStorageExample;
+package Chapter13.ChildProductAndStorageExample;
 
 public class ChildProduct<T, M, C>extends Product<T, M>{
     private C company;

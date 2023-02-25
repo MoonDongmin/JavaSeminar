@@ -1,4 +1,4 @@
-package Chapter12.BoundedTypeParmeterExample;
+package Chapter13.BoundedTypeParmeterExample;
 
 public class Util {
     public static <T extends Number> int compare(T t1, T t2){

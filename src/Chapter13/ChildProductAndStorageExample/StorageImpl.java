@@ -1,4 +1,4 @@
-package Chapter12.ChildProductAndStorageExample;
+package Chapter13.ChildProductAndStorageExample;
 
 public class StorageImpl<T> implements Storage<T>{
     private T[] array;

@@ -1,4 +1,4 @@
-package Chapter12.ComparMethodExample;
+package Chapter13.ComparMethodExample;
 
 public class CompareMethodExample {
     public static void main(String[] args){

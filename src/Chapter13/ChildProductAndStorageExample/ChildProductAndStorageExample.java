@@ -1,6 +1,4 @@
-package Chapter12.ChildProductAndStorageExample;
-
-import Chapter10.TryCatchFinallyExample.TryCatchFinallyExample;
+package Chapter13.ChildProductAndStorageExample;
 
 public class ChildProductAndStorageExample {
     public static void main(String[] args){

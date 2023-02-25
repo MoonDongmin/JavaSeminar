@@ -1,4 +1,4 @@
-package Chapter12.ChildProductAndStorageExample;
+package Chapter13.ChildProductAndStorageExample;
 
 public class Product<T, M> {
     private T kind;
@@ -10,4 +10,4 @@ public class Product<T, M> {
     public void setKind(T kind){this.kind = kind;}
     public void setModel(M model){this.model = model;}
 }
-class Tv{}
+public class Tv{}

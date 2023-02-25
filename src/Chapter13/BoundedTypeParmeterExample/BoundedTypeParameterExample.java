@@ -1,4 +1,4 @@
-package Chapter12.BoundedTypeParmeterExample;
+package Chapter13.BoundedTypeParmeterExample;
 
 public class BoundedTypeParameterExample {
     public static void main(String[] args){

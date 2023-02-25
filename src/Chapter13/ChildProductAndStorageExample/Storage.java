@@ -1,4 +1,4 @@
-package Chapter12.ChildProductAndStorageExample;
+package Chapter13.ChildProductAndStorageExample;
 
 public interface Storage <T>{
     public void add(T item, int index);

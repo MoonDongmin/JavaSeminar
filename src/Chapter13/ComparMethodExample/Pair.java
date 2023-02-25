@@ -1,4 +1,4 @@
-package Chapter12.ComparMethodExample;
+package Chapter13.ComparMethodExample;
 
 public class Pair<K, V> {
     private K key;

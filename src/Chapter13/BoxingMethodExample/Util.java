@@ -1,6 +1,6 @@
-package Chapter12.BoxingMethodExample;
+package Chapter13.BoxingMethodExample;
 
-import Chapter12.BoxEample2.Box;
+import Chapter13.BoxEample2.Box;
 
 public class Util {
     public static <T> Box<T> boxing(T t){
