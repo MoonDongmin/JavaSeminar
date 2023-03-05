@@ -1,8 +1,5 @@
 package Chapter15.TreeSetExmaple3;
 
-import Chapter12.ChildProductAndStorageExample.StorageImpl;
-
-import java.util.NavigableMap;
 import java.util.NavigableSet;
 import java.util.TreeSet;
 
