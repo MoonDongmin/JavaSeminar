@@ -1,6 +1,4 @@
-package ChapterAPI.FinalizeExample;
-
-import Chapter07.Protected.C;
+package Chapter11.FinalizeExample;
 
 public class FinalizeExample {
     public static void main(String[] args) {

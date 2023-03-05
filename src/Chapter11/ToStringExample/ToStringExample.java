@@ -1,4 +1,4 @@
-package ChapterAPI.ToStringExample;
+package Chapter11.ToStringExample;
 
 import java.util.Date;
 

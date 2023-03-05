@@ -1,4 +1,4 @@
-package ChapterAPI.StringToPrimitiveValueExample;
+package Chapter11.StringToPrimitiveValueExample;
 
 public class StringToPrimitiveValueExample {
     public static void main(String[] args) {

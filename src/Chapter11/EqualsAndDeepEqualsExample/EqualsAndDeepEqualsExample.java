@@ -1,4 +1,4 @@
-package ChapterAPI.EqualsAndDeepEqualsExample;
+package Chapter11.EqualsAndDeepEqualsExample;
 
 import java.util.Arrays;
 import java.util.Objects;

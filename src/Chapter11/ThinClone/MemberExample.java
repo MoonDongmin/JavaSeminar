@@ -1,6 +1,4 @@
-package ChapterAPI.ThinClone;
-
-import java.net.SocketPermission;
+package Chapter11.ThinClone;
 
 public class MemberExample {
     public static void main(String[] args){

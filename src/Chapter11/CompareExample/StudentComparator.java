@@ -1,4 +1,4 @@
-package ChapterAPI.CompareExample;
+package Chapter11.CompareExample;
 
 import java.util.Comparator;
 

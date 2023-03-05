@@ -1,4 +1,4 @@
-package ChapterAPI.ExitExample;
+package Chapter11.ExitExample;
 
 public class ExitExample {
     public static void main(String[] args){

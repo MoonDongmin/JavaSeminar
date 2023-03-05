@@ -1,4 +1,4 @@
-package ChapterAPI.GCExample;
+package Chapter11.GCExample;
 
 public class GCExample {
     public static void main(String[] args) {

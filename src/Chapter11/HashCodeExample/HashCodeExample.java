@@ -1,4 +1,4 @@
-package ChapterAPI.HashCodeExample;
+package Chapter11.HashCodeExample;
 
 import java.util.Objects;
 

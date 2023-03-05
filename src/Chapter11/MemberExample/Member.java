@@ -1,4 +1,4 @@
-package ChapterAPI.MemberExample;
+package Chapter11.MemberExample;
 
 public class Member {
     public String id;

@@ -1,4 +1,4 @@
-package ChapterAPI.FinalizeExample;
+package Chapter11.FinalizeExample;
 
 public class Counter {
     private int no;

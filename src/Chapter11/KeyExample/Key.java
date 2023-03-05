@@ -1,4 +1,4 @@
-package ChapterAPI.KeyExample;
+package Chapter11.KeyExample;
 
 public class Key {
     public int number;

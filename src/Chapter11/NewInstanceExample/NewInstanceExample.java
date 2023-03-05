@@ -1,8 +1,4 @@
-package ChapterAPI.NewInstanceExample;
-
-import Chapter07.Protected.A;
-
-import java.io.IOException;
+package Chapter11.NewInstanceExample;
 
 public class NewInstanceExample {
     public static void main(String[] args) {

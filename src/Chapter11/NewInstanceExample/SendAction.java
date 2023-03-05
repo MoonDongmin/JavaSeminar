@@ -1,4 +1,4 @@
-package ChapterAPI.NewInstanceExample;
+package Chapter11.NewInstanceExample;
 
 public class SendAction implements Action {
     @Override

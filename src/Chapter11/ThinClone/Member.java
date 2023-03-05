@@ -1,4 +1,4 @@
-package ChapterAPI.ThinClone;
+package Chapter11.ThinClone;
 
 public class Member {
     public String id;
