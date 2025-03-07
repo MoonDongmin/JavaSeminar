@@ -8,7 +8,7 @@ import java.io.Reader;
 public class BufferedReaderExample {
     public static void main(String[] args) throws Exception{
         InputStream is =System.in;
-        Reader reader;
+        Reader reader = null;
         BufferedReader br = new BufferedReader(reader);
     }
 }
